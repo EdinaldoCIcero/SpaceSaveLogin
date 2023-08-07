@@ -1,3 +1,6 @@
+
+<img width="467" alt="Example 1" src="images/Screenshot.png">
+
 <p align="center">
 
   <h1 align="center" style="margin: 0 auto 0 auto;"> LOGIN APP DESKTOP IN PYTHON </h1>
@@ -36,7 +39,7 @@ pip install pyinstaller
 
 ## 🎯 Imagens 
 
-<img width="467" alt="Example 1" src="https://raw.githubusercontent.com/Proxlight/Create/main/Example1.png">
+<img width="467" alt="Example 1" src="images/Screenshot.png">
 
 
 
