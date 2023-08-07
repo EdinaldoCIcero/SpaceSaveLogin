@@ -1,15 +1,14 @@
+<p align="center">
+
+  <h1 align="center" style="margin: 0 auto 0 auto;"> LOGIN APP DESKTOP IN PYTHON </h1>
+  <h5 align="center" style="margin: 0 auto 0 auto;"> Login Desktop Application. </h5>
+</p>
 
 <div align="center" >
   <img width="467" alt="Example 1" src="images/Screenshot.png">
 </div>
 
 
-<p align="center">
-
-  <h1 align="center" style="margin: 0 auto 0 auto;"> LOGIN APP DESKTOP IN PYTHON </h1>
-  <h5 align="center" style="margin: 0 auto 0 auto;"> Login Desktop Application. </h5>
-
-</p>
   
 ---
 <br>
